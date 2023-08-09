@@ -1,0 +1,10 @@
+For using the application make shure the port is the same of your project
+and test it using the insomnia or some app of your preference
+to thest the get you only need to run the project with node src/server.js
+and open http://localhost:3000/ on your navigator
+after that to teste the post, create a post on insomnia and use this url
+http://localhost:3000/testepost and make the post in json format
+and be happy
+i only copyed the project from a video "como salvar log em arquivo das requisições node js com morgan"
+from the channel programando soluções
+See ya!
